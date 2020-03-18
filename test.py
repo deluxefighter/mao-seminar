@@ -1,2 +1,2 @@
 print ("Hello!")
-print ("Hoge")
+print ("Test")
